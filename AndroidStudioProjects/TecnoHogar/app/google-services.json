@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "975753895169",
+    "project_id": "tecnohogar-3f2c6",
+    "storage_bucket": "tecnohogar-3f2c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975753895169:android:273b6e57623162e2b44f00",
+        "android_client_info": {
+          "package_name": "com.example.tecnohogar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975753895169-vm0n0g6si2a8vcv167mj4ndr4lc4vm64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOGMrhLBkk1nnAgT9wP9thXP0EwtiJilY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975753895169-vm0n0g6si2a8vcv167mj4ndr4lc4vm64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

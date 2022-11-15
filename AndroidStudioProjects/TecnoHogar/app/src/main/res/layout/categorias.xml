@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".categorias">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:id="@+id/barra_busqueda"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:id="@+id/ct_buscar"
+                android:layout_width="300dp"
+                android:layout_height="44dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="26dp"
+                android:autofillHints=""
+                android:background="@drawable/search_background"
+                android:drawableStart="@drawable/ic_search"
+                android:drawableEnd="@drawable/ic_slider"
+                android:drawablePadding="10dp"
+                android:ems="10"
+                android:fontFamily="@font/poppins"
+                android:hint="@string/barra_busqueda"
+                android:inputType="textPersonName"
+                android:paddingStart="10dp"
+                android:paddingEnd="10dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#0EB0C5"
+                android:orientation="horizontal"
+                android:layout_below="@id/ct_buscar"
+                android:layout_marginTop="20dp">
+
+                <ImageView
+                    android:id="@+id/imageView10"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    app:srcCompat="@drawable/fondo_transparente"
+                    android:scaleType="centerInside"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10dp"
+                    android:orientation="vertical">
+                </LinearLayout>
+            </LinearLayout>
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+</RelativeLayout>
