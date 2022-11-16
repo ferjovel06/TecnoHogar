@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TecnoHogar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="electricistas">Electricistas</string>
+    <string name="hola">Hola,</string>
+    <string name="ana_reyes">Ana Reyes</string>
+    <string name="barra_busqueda">Buscar Profesionales</string>
+    <string name="nom_profesional1">Cristian Andrade</string>
+    <string name="profesion1">Técnico Electricista</string>
+    <string name="nom_profesional">Antonio Ruiz</string>
+    <string name="icon_menu">icon menu</string>
+    <string name="ellipse">ellipse</string>
+    <string name="icono_perfil">icono perfil</string>
+    <string name="profesionales_tecnicos">Profesionales Técnicos</string>
+    <string name="linea_celeste">linea celeste</string>
+    <string name="foto_del_tecnico">foto del tecnico</string>
+    <string name="carpinteros">Carpinteros</string>
+    <string name="cuadro_blanco">cuadro blanco</string>
+    <string name="cuadro_celeste">cuadro celeste</string>
+    <string name="profesion2">Carpintero</string>
+    <string name="albaniles">Albañiles</string>
+    <string name="tecnohogar">TecnoHogar</string>
+    <string name="vermas">Ver Todos</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
