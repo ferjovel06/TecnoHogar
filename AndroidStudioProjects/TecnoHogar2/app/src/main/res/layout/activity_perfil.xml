@@ -127,7 +127,7 @@
         android:ems="10"
         android:focusableInTouchMode="false"
         android:fontFamily="@font/poppins_semibold"
-        android:hint="@naitoon"
+        android:hint="naitoon"
         android:inputType="textPersonName"
         android:textAlignment="center"
         android:textColorHint="@color/white"
